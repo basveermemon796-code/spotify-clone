@@ -18,6 +18,7 @@ async function getSongs(folder) {
   currFolder = folder;
 
   let res = await fetch(`/${folder}/info.json`);
+  console.log("rrrrrrrrrrrr", res)
   let data = await res.json();
   songs = data.Songs || [];
 
