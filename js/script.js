@@ -12,6 +12,7 @@ function formatTime(sec) {
     .toString()
     .padStart(2, "0")}`;
 }
+// 
 
 async function getSongs(folder) {
   currFolder = folder; // Store the current folder globally
