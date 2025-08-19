@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+     xmlns="http://www.w3.org/2000/svg" stroke="lightgray" stroke-width="1.6"
+     stroke-linecap="round" stroke-linejoin="round">
+  <!-- Speaker -->
+  <path d="M11 4L7 8H4v8h3l4 4V4z"/>
+  <!-- Waves -->
+  <path d="M15 8c1.2 1.2 1.2 6.8 0 8"/>
+  <path d="M17.8 5.8c2.8 2.8 2.8 9.6 0 12.4"/>
+</svg>
